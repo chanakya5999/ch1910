@@ -1,1 +1,2 @@
-code is added in second file
+code is added in second fil.
+second line of code is added.
